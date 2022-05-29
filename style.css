@@ -128,7 +128,7 @@ button.tasks__button_delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#completed-list label {
   text-decoration: line-through
   color: #888;
 }
