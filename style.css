@@ -6,6 +6,11 @@ body {
   font-family: Lato, sans-serif;
 }
 
+.tasks__add {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
 .header {
   width: 500px;
   margin: 0 auto;
