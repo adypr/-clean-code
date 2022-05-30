@@ -1,4 +1,5 @@
 /* Basic Style */
+
 body {
   background-color: #f8f8f8;
   color: #333;
@@ -73,7 +74,9 @@ body {
   color: #3a3A3a;
 }
 
+
 /* Heading */
+
 .tasks__title,
 .tasks__title_new {
   color: #333;
@@ -102,7 +105,9 @@ body {
   color: #333;
 }
 
+
 /* New Task */
+
 .tasks__title_new {
   display: block;
   margin: 0 0 20px;
@@ -112,7 +117,9 @@ body {
   width: 318px;
 }
 
+
 /* Task list */
+
 .tasks__item {
   overflow: hidden;
   padding: 20px 0;
@@ -152,13 +159,17 @@ body {
   transform: rotateZ(0);
 }
 
+
 /* Completed */
+
 .tasks__items#completed-list .tasks__text {
   text-decoration: line-through;
   color: #888;
 }
 
+
 /* Edit Task */
+
 .tasks__item .tasks__type-field {
   display: none;
 }
