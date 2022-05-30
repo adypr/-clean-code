@@ -142,7 +142,7 @@ body {
 
 .tasks__item.tasks__item_edit .tasks__type-field {
   display: inline-block;
-  width:224px;
+  width: 224px;
 }
 
 .tasks__item.tasks__item_edit .tasks__text {
