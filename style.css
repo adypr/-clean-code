@@ -87,7 +87,7 @@ body {
 /* Heading */
 
 .tasks__title,
-.tasks__title_new {
+.tasks__add .tasks__text {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -117,7 +117,7 @@ body {
 
 /* New Task */
 
-.tasks__title_new {
+.tasks__add .tasks__text {
   display: block;
   margin: 0 0 20px;
 }
