@@ -37,14 +37,14 @@ body {
   display: flex;
 }
 .tasks__items {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .tasks__item, .tasks__title {
-  list-style:none;
+  list-style: none;
 }
 .tasks__input, .tasks__button{
-  outline:none;
+  outline: none;
 }
 .tasks__button {
   background: none;
@@ -137,14 +137,14 @@ body {
 
 /* Edit Task */
 .tasks__item .tasks__type-field {
-  display:none
+  display: none
 }
 
 .tasks__item.tasks__item_edit .tasks__type-field {
-  display:inline-block;
+  display: inline-block;
   width:224px
 }
 
 .tasks__item.tasks__item_edit .tasks__text {
-  display:none;
+  display: none;
 }
